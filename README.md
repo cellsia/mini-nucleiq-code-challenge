@@ -73,4 +73,4 @@ contiguous-ones: positive cells = 2, positivity = 20%, result = NEGATIVE
 
 surrounded-ones: positive cells = 2, positivity = 20% result = POSITIVE
 
-Final sample result: POSITIVE
+Final sample result: NEGATIVE
