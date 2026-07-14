@@ -17,7 +17,11 @@ export class AlgorithmResult {
         "Positive cells must be an integer between zero and total cells",
       );
     }
-    if (thresholdPercentage < 0 || thresholdPercentage > 100) {
+    if (
+      !Number.isFinite(thresholdPercentage) ||
+      thresholdPercentage < 0 ||
+      thresholdPercentage > 100
+    ) {
       throw new InvalidAlgorithmResultError("Threshold must be between 0 and 100");
     }
 
