@@ -1,5 +1,9 @@
 # CellsIA's Code Challenge
 
+> **TypeScript/Bun solution:** see [SOLUTION.md](SOLUTION.md) for setup, usage,
+> tests, and assumptions. [DESIGN.md](DESIGN.md) explains the hexagonal
+> architecture and its trade-offs.
+
 In the real world, a tissue sample (for example from a biopsy of a breast tumour) is prepared in the lab, sliced into very thin sections, stained, and photographed at very high resolution. The resulting digital image is called a whole-slide image, or WSI. Pathologists review these images to look for clinically relevant biological markers, such as proteins, receptors, proliferation markers, or staining patterns.
 
 NucleIQ is a digital pathology platform that uses AI/ML models to help detect and quantify those markers in tissue samples, reducing the manual review burden and helping pathologists focus their attention on the most relevant findings.
