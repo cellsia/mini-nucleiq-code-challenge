@@ -18,11 +18,11 @@ For guidance, the solution should take around 2–3 hours to implement.
 
 ## Instructions
 
-Fork this repository and once completed, send us the url of your repository back.
+Fork this repository and once completed, send us the url of your repository back. Forking is not mandatory. For privacy or convenience reasons, you may instead clone the repository and publish it as a standalone repository under your own account. In either case, provide the URL to the resulting repository.
 
 Please don’t squash your commits before submitting; we want to see the progression of your work, not only the final result.
 
-Include a **NOTES.md** file explaining your solution, your decisions and why you made them, or any assumptions or trade-offs you made.Please also include instructions for how to run the tests.
+Include a **NOTES.md** file explaining your solution, your decisions and why you made them, or any assumptions or trade-offs you made. Please also include instructions for how to run the tests.
 
 ## The task
 
